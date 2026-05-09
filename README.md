@@ -7,6 +7,6 @@ Enable All Services is a utility script designed for FiveM servers that require 
 - Designed to handle system-level permissions efficiently.
 
 ## Installation & Usage
-Download the Enable_Services.bat file.
-Right-click on the file.
-Select "Run as administrator" to ensure all services are triggered correctly. 
+- Download the Enable_Services.bat file.
+- Right-click on the file.
+- Select "Run as administrator" to ensure all services are triggered correctly. 
