@@ -1,7 +1,6 @@
 # Enable All Services
 Enable All Services is a utility script designed for FiveM servers that require specific system services to be active for optimal performance.
 
-Developed by pngu
 ## Features
 - Instantly detects and starts required services if they are stopped.
 - Just download the .bat file and run it to configure your environment.
